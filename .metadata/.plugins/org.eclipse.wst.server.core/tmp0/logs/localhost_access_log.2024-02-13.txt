@@ -1,0 +1,4 @@
+127.0.0.1 - - [13/Feb/2024:00:17:37 +0100] "GET / HTTP/1.1" 404 752
+127.0.0.1 - - [13/Feb/2024:00:17:43 +0100] "GET /DemoServlet/session.html HTTP/1.1" 200 611
+127.0.0.1 - - [13/Feb/2024:00:17:43 +0100] "GET /favicon.ico HTTP/1.1" 404 763
+127.0.0.1 - - [13/Feb/2024:00:17:57 +0100] "GET /DemoServlet/SessionDemoServlet?username=jhb&email=cjjzz%40hbljbh HTTP/1.1" 200 43

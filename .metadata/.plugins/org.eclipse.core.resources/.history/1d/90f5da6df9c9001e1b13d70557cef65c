@@ -1,0 +1,19 @@
+
+
+import jakarta.servlet.annotation.WebServlet;
+import jakarta.servlet.http.HttpServlet;
+
+/**
+ * Servlet implementation class SessionDemoServlet
+ */
+public class SessionDemoServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+    /**
+     * Default constructor. 
+     */
+    public SessionDemoServlet() {
+        // TODO Auto-generated constructor stub
+    }
+
+}

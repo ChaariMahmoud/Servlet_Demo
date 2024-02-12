@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/apache-tomcat-10.0.27 at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="apache-tomcat-10.0.27 at localhost" name="apache-tomcat-10.0.27 at localhost" runtime-id="apache-tomcat-10.0.27" server-type="org.eclipse.jst.server.tomcat.100" server-type-id="org.eclipse.jst.server.tomcat.100" start-timeout="60" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="DemoServlet::org.eclipse.jst.jee.server:DemoServlet::jst.web::5.0"/>
+  </server>
+</servers>
